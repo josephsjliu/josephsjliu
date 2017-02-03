@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Webpage</title>
+    <link rel = "stylesheet" type = "text/css" href="index.css">
+    <header>Hi! Check out my website!</header>
+</head>
+
+    <body>
+    <h1>This is the body!</h1>
+    </body>
+</html>
